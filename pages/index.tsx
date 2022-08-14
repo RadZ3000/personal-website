@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <p className="w-2/3">I'm a web developer specializing in designing, building, and maintaining component-based front end websites.
         <br /><br />
         I'm a web developer specializing in designing, building, and maintaining component-based front end websites.</p>
-        <button className="my-10 border-solid border-2 rounded border-red-400 w-fit px-5 py-2 hover:bg-red-400/20">Check out my Work</button>
+        <button className="my-10 border-solid border-2 rounded border-red-400 w-fit px-5 py-2 hover:bg-red-400/20 duration-500">Check out my Work</button>
       </div>
 
       <div className="flex justify-start ml-56">

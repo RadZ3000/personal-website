@@ -4,6 +4,6 @@
 
 @layer components {
     .nav {
-        @apply font-medium px-2 mx-2 text-sm hover:text-red-400 font-mono
+        @apply font-medium px-2 mx-2 text-sm hover:text-red-400 duration-500 font-mono
     }
 }
