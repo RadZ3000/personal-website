@@ -26,7 +26,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Navbar</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with NextJS.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
@@ -43,7 +43,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Footer</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with NextJS.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
@@ -60,7 +60,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Sidebar</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with NextJS.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
@@ -77,7 +77,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Landing Page</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with NextJS.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
@@ -94,7 +94,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Login Template</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with NextJS.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
@@ -111,7 +111,7 @@ const Work = () => {
                         </div>
                         <Link href="https://herald-sidebar-component.netlify.app/"><a className="hover w-full h-1/6 text-lg">Choropleth Map</a></Link>
                         <p className="text-xs h-1/3 w-full text-gray-300">
-                            Easily customizable and reusable Navbar Component, made with NextJS.
+                            Easily customizable and reusable Navbar Component. Made with D3 and React.
                         </p>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
