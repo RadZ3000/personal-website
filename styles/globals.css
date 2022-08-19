@@ -6,4 +6,19 @@
     .nav {
         @apply font-medium px-2 mx-2 text-sm hover:text-red-400 duration-500 font-mono
     }
+    .page {
+        @apply flex flex-col items-center bg-gray-900 text-white font-mono
+    }
+    .translate {
+        @apply hover:-translate-y-2.5
+    }
+    .box {
+        @apply after:content-[""] w-2 h-14 bg-white inline-block animate-pulse
+    }
+    .hover {
+        @apply hover:text-red-400 duration-500
+    }
+    .footer {
+        @apply hover:bg-white hover:brightness-100 duration-500 p-0.5
+    }
 }

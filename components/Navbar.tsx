@@ -2,14 +2,14 @@ import Link from "next/link";
 
 const Navbar = () => {
     return (
-        <nav className="flex flex-row bg-gray-900 text-white py-5 font-mono">
+        <nav className="flex flex-row bg-gray-900 text-white py-5 font-mono w-full">
             
             <div className="w-1/2 text-left pl-5">
-            <Link href="/"><a className="text-md font-md bg-red-700 text-black px-2 hover:text-white duration-700"><code>&lt;herald&gt;</code></a></Link>
+            <Link href="/"><a className="text-md font-md bg-red-600 text-black px-2 hover:text-white duration-700"><code>&lt;herald&gt;</code></a></Link>
             </div>
             <div className="w-1/2 h-max text-right">
-                <Link href="#about"><a className="nav">About</a></Link>
-                <Link href="/skills"><a className="nav">Skills</a></Link>
+                <Link href="/"><a className="nav">Home</a></Link>
+                <Link href="/about"><a className="nav">About</a></Link>
                 <Link href="/work"><a className="nav">Work</a></Link>
                 <Link href="/contact"><a className="nav">Contact</a></Link>
             </div>
