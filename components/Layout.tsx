@@ -1,9 +1,14 @@
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 import Sidebar from "./Sidebar";
+import React, { ReactNode } from "react";
 
+interface Props {
+    children?: ReactNode
+    // any props that come into the component
+}
 
-const Layout = ({ children }) => {
+const Layout = ({ children, ...props }: Props) => {
     return (
         <div className="content">
             <Navbar />
