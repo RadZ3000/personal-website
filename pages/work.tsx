@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { TypeAnimation } from 'react-type-animation';
 import {
     FaGithub,
     FaAnchor,
@@ -11,11 +12,19 @@ import {
 
 const Work = () => {
     return (
-        <div className="page">
+        <div id="work" className="page">
 
-            <div id="work" className="flex flex-col gap-y-20 justify-center items-center w-5/6 h-screen">
+            <div id="intro" className="flex flex-col gap-y-20 justify-center items-center w-5/6 h-screen">
 
-                <h1 className="lg:text-xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit">Work.</h1>
+                <h1 className="lg:text-xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit">
+                    <code>
+                        <TypeAnimation
+                            sequence={[
+                                'My Work.',
+                            ]}
+                        />
+                    </code>
+                </h1>
 
                 <div className="grid grid-rows-2 gap-12 grid-cols-3">
 
@@ -132,7 +141,7 @@ const Work = () => {
                             <FaReact />
                         </div>
                     </div>
-                    
+
                 </div>
 
             </div>
