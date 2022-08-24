@@ -20,7 +20,7 @@ const Contact = () => {
                         />
                     </code>
                 </h1>
-                <div className="flex flex-col gap-y-14 content-center bg-gray-800 border-slate-900 border w-2/5 rounded-xl py-8 px-16">
+                <div className="flex flex-col gap-y-14 content-center bg-slate-800 border-slate-800 border w-2/5 rounded-xl py-8 px-16">
                     <span className="flex flex-row items-center gap-x-20">
                         <button className="button">
                             <FaPhone className="text-red-700" />

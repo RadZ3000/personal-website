@@ -13,7 +13,7 @@
         @apply hover:-translate-y-2.5
     }
     .container {
-        @apply flex flex-col gap-y-4 content-center bg-slate-800 border-slate-900 border rounded-xl w-72 h-64 p-5
+        @apply flex flex-col gap-y-4 content-center bg-slate-800 border-slate-800 border rounded-xl w-72 h-64 p-5
     }
     .hover {
         @apply hover:text-red-400 duration-500

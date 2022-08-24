@@ -36,7 +36,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
@@ -55,7 +55,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
@@ -74,7 +74,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
@@ -93,7 +93,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
@@ -112,7 +112,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
@@ -131,7 +131,7 @@ const Work = () => {
                         <Link href="https://herald-sidebar-component.netlify.app/">
                             <a className="hover flex flex-col gap-y-4 w-full text-lg">
                                 <h1>Navbar</h1>
-                                <p className="text-xs h-1/3 w-full">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
                         </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
