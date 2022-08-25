@@ -46,7 +46,7 @@ const Contact = () => {
                                     Message:
                                 </button>
                             </a>
-                        <h1 className="text-xs md:text-sm lg:text-base w-11/12">linkedin.com/in/heraldadowei</h1>
+                        <h1 className="text-xs md:text-sm lg:text-base w-fit sm:w-auto">linkedin.com/in/heraldadowei</h1>
                     </span>
                 </div>
             </div>
