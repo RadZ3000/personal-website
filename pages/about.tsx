@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div id="about" className="page">
 
-      <div id="intro" className="flex flex-col md:flex-row lg:flex-row items-center gap-x-12 w-full lg:w-5/6 px-12 h-screen">
+      <div id="intro" className="flex flex-col sm:flex-row md:flex-row lg:flex-row items-center gap-x-12 w-full lg:w-5/6 px-12 h-screen">
         <div className="w-full lg:w-1/2 lg:text-justify">
           <h1 className="text-2xl md:text-2xl lg:text-3xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit ml-12">
             <code>
@@ -26,7 +26,7 @@ const About = () => {
             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </div>
-        <div className="flex items-center w-10/12 sm:w-8/12 md:w-full lg:w-2/5 h-4/5 md:h-full"><Image src={profile} /></div>
+        <div className="flex items-center w-10/12 sm:w-3/5 md:w-full lg:w-2/5 h-4/5 md:h-full"><Image src={profile} /></div>
       </div>
       
     </div>
