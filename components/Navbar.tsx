@@ -46,7 +46,7 @@ export default function Home() {
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <nav className="w-full bg-gray-900 shadow pb-5">
+            <nav className="w-full bg-gray-900 shadow pb-5 md:pb-24 lg:pb-0">
                 <div className="justify-between px-4 mx-auto md:items-center md:flex md:px-8">
                     <div>
                         <div className="flex items-center justify-between py-3 md:py-5 md:block">
