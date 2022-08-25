@@ -9,7 +9,7 @@ const About = () => {
 
       <div id="intro" className="flex flex-col md:flex-row lg:flex-row items-center gap-x-12 w-full lg:w-5/6 px-12 h-screen">
         <div className="w-full lg:w-1/2 lg:text-justify">
-          <h1 className="lg:text-xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit ml-12">
+          <h1 className="text-2xl md:text-2xl lg:text-3xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit ml-12">
             <code>
               <TypeAnimation
                 sequence={[
