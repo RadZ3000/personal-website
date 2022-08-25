@@ -26,7 +26,7 @@ const Work = () => {
                     </code>
                 </h1>
 
-                <div className="grid grid-rows-3 grid-cols-2 justify-center gap-6 md:grid-rows-2 md:grid-cols-3 md:gap-12 lg:grid-rows-2 lg:grid-cols-3 lg:gap-12">
+                <div className="grid grid-rows-3 grid-cols-2 justify-center gap-6 md:grid-rows-2 md:grid-cols-3 md:gap-10 lg:grid-rows-2 lg:grid-cols-3 lg:gap-12">
 
                     <div className="translate container">
                         <div className="flex flex-row justify-end gap-x-4 content-center h-1/6">
