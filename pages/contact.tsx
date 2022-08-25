@@ -37,16 +37,16 @@ const Contact = () => {
                                 Email:
                             </button>
                         </a>
-                        <h1 className="text-xs md:text-sm  lg:text-base">herald.adowei@gmail.com</h1>
+                        <h1 className="text-xs md:text-sm lg:text-base break-all">herald.adowei@gmail.com</h1>
                     </span>
-                    <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20 w-1/3 sm:w-auto">
+                    <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
                             <a href="https://www.linkedin.com/in/heraldadowei" target="_blank" rel="noopener noreferrer">
                                 <button className="button">
                                     <FaComment className="text-red-700" />
                                     Message:
                                 </button>
                             </a>
-                        <h1 className="text-xs md:text-sm lg:text-base">linkedin.com/in/heraldadowei</h1>
+                        <h1 className="text-xs md:text-sm lg:text-base break-all">linkedin.com/in/heraldadowei</h1>
                     </span>
                 </div>
             </div>
