@@ -14,7 +14,7 @@ const Work = () => {
     return (
         <div id="work" className="page">
 
-            <div id="intro" className="flex flex-col gap-y-20 justify-center items-center w-5/6 h-full lg:h-screen">
+            <div id="intro" className="flex flex-col gap-y-20 justify-center items-center w-11/12 h-full lg:h-screen">
 
                 <h1 className="text-2xl md:text-2xl lg:text-3xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit">
                     <code>
@@ -26,7 +26,7 @@ const Work = () => {
                     </code>
                 </h1>
 
-                <div className="grid grid-rows-3 grid-cols-2 gap-10 md:grid-rows-2 md:grid-cols-3 md:gap-12 lg:grid-rows-2 lg:grid-cols-3 lg:gap-12">
+                <div className="grid grid-rows-3 grid-cols-2 justify-center gap-6 md:grid-rows-2 md:grid-cols-3 md:gap-12 lg:grid-rows-2 lg:grid-cols-3 lg:gap-12">
 
                     <div className="translate container">
                         <div className="flex flex-row justify-end gap-x-4 content-center h-1/6">
