@@ -21,7 +21,7 @@ const Home: NextPage = () => {
             />
           </code>
         </h1>
-        <p className="text-md md:text-lg w-full flex text-center md:text-left sm:w-4/5 md:w-3/4">I'm a software engineer specializing in designing, building, and maintaining component-based front end websites.</p>
+        <p className="text-md md:text-lg w-full flex text-center md:text-left sm:w-4/5 md:w-3/4">I'm a software engineer specializing in designing, building, and maintaining front end and back end of component-based websites.</p>
         <button className="mt-10 flex border-solid border-2 rounded border-red-400 w-fit px-10 py-5 hover:bg-red-400/20 hover:border-red-500 duration-500">
           <Link href="/work">Check out my Work</Link>
         </button>

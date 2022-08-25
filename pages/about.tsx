@@ -21,7 +21,7 @@ const About = () => {
           <p className="text-sm md:text-sm lg:text-md py-12 pr-5">
             Hi! I'm Herald, and I creatively code captivating content.
             <br /><br />
-            I'm a full-stack developer proficient in multiple aspects of code, from UI/UX design all the way to deployment and database management. I have 4+ years of experience working with different frontend, backend, database management, and UI/UX frameworks, including:
+            I'm a full-stack developer proficient in multiple aspects of development, from UI/UX design all the way to deployment and database management. I have 4+ years of experience working with different frontend, backend, database management, and UI/UX frameworks, including:
             <br /><br />
             <ul>
               <li>- Figma, Webflow</li>
@@ -31,6 +31,8 @@ const About = () => {
               <li>- Node.js, PHP</li>
               <li>- SQL, MySQL, MongoDB</li>
               <li>- D3.js</li>
+              <li>- Jest</li>
+              <li>- Github</li>
               <li>- Vercel, Netlify</li>
             </ul>
           </p>
