@@ -33,12 +33,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />
@@ -52,12 +50,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />
@@ -71,12 +67,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />
@@ -90,12 +84,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />
@@ -109,12 +101,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />
@@ -128,12 +118,10 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                        <Link href="https://herald-sidebar-component.netlify.app/">
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1>Navbar</h1>
                                 <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
                             </a>
-                        </Link>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-sm">
                             <FaHtml5 />
                             <FaCss3 />

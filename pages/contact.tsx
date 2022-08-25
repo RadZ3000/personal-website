@@ -22,25 +22,31 @@ const Contact = () => {
                 </h1>
                 <div className="flex flex-col gap-y-14 content-center bg-slate-800 border-slate-800 border w-11/12 sm:w-2/3 md:w-3/5 lg:w-3/5 xl:w-3/5 rounded-xl py-4 px-8 lg:py-8 lg:px-16">
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
-                        <button className="button">
-                            <FaPhone className="text-red-700" />
-                            <a href="mailto: abc@example.com">Call:</a>
-                        </button>
-                        <h1 className="text-xs md:text-sm  lg:text-base">+1 (123) 456–7890</h1>
+                        <a href="tel:8323019096">
+                            <button className="button">
+                                <FaPhone className="text-red-700" />
+                                Call:
+                            </button>
+                        </a>
+                        <h1 className="text-xs md:text-sm  lg:text-base">+1 (832) 301–9096</h1>
                     </span>
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
-                        <button className="button">
-                            <FaEnvelope className="text-red-700" />
-                            <a href="mailto: abc@example.com">Email:</a>
-                        </button>
-                        <h1 className="text-xs md:text-sm  lg:text-base">first.last@email.com</h1>
+                        <a href="mailto: abc@example.com">
+                            <button className="button">
+                                <FaEnvelope className="text-red-700" />
+                                Email:
+                            </button>
+                        </a>
+                        <h1 className="text-xs md:text-sm  lg:text-base">herald.adowei@gmail.com</h1>
                     </span>
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
-                        <button className="button">
-                            <FaComment className="text-red-700" />
-                            <a href="mailto: abc@example.com">Message:</a>
-                        </button>
-                        <h1 className="text-xs md:text-sm lg:text-base">linkedin.com/fullname</h1>
+                            <a href="https://www.linkedin.com/in/herald-ad" target="_blank" rel="noopener noreferrer">
+                                <button className="button">
+                                    <FaComment className="text-red-700" />
+                                    Message:
+                                </button>
+                            </a>
+                        <h1 className="text-xs md:text-sm lg:text-base">linkedin.com/in/herald-ad</h1>
                     </span>
                 </div>
             </div>
