@@ -35,7 +35,7 @@ const Work = () => {
                         </div>
                             <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1 className="text-sm md:text-base">Navbar & Footer</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Navbar and Footer component made with Next.js</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
@@ -52,7 +52,7 @@ const Work = () => {
                         </div>
                             <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1 className="text-sm md:text-base">Sidebar</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Sidebar component made with Next.js</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
@@ -69,7 +69,7 @@ const Work = () => {
                         </div>
                             <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1 className="text-sm md:text-base">Dropdown Menu</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Dropdown menu component made with Next.js</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
@@ -86,7 +86,7 @@ const Work = () => {
                         </div>
                             <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
                                 <h1 className="text-sm md:text-base">Landing Page</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Landing Page made with React.js</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
@@ -101,9 +101,9 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-login-template.netlify.app/">
                                 <h1 className="text-sm md:text-base">Login Template</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Company login template made with Next.js and Tailwind CSS</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
@@ -118,9 +118,9 @@ const Work = () => {
                             <Link href="#"><a className="hover"><FaGithub /></a></Link>
                             <Link href="#"><a className="hover"><FaAnchor /></a></Link>
                         </div>
-                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://herald-sidebar-component.netlify.app/">
+                            <a className="hover flex flex-col gap-y-4 w-full text-lg" target="_blank" rel="noopener noreferrer" href="https://codepen.io/He_sRad/full/zYZWzje">
                                 <h1 className="text-sm md:text-base">Choropleth Map</h1>
-                                <p className="text-xs h-1/3 w-full text-gray-400">Easily customizable and reusable Navbar Component. Made with NextJS.</p>
+                                <p className="text-xs h-1/3 w-full text-gray-400">Choropleth map plotted with D3.js and React.js</p>
                             </a>
                         <div className="flex flex-row items-end gap-x-3 h-1/3 text-xs md:text-sm">
                             <FaHtml5 />
