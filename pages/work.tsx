@@ -14,7 +14,7 @@ const Work = () => {
     return (
         <div id="work" className="page">
 
-            <div id="intro" className="flex flex-col gap-y-20 justify-center items-center w-11/12 h-full lg:h-screen">
+            <div id="intro" className="flex flex-col gap-y-20 justify-center items-center w-11/12 md:w-5/6 h-full lg:h-screen">
 
                 <h1 className="text-2xl md:text-2xl lg:text-3xl xl:text-3xl xl:leading-snug font-bold text-red-500 w-fit">
                     <code>
