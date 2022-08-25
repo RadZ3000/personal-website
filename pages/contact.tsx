@@ -39,7 +39,7 @@ const Contact = () => {
                         </a>
                         <h1 className="text-xs md:text-sm  lg:text-base">herald.adowei@gmail.com</h1>
                     </span>
-                    <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20 w-fit sm:w-auto">
+                    <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20 w-2/3 sm:w-auto">
                             <a href="https://www.linkedin.com/in/heraldadowei" target="_blank" rel="noopener noreferrer">
                                 <button className="button">
                                     <FaComment className="text-red-700" />
