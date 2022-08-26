@@ -20,6 +20,7 @@ const Contact = () => {
                         />
                     </code>
                 </h1>
+                <h1 className="text-white text-xss md:text-sm w-2/3 sm:w-1/2">I'm passionate about fulfilling the vision of my clients. Whatever services you need for your project, I'm confident I can carry them out. I look forward to working with you!</h1>
                 <div className="flex flex-col gap-y-14 content-center bg-slate-800 border-slate-800 border w-11/12 sm:w-2/3 md:w-3/5 lg:w-3/5 xl:w-3/5 rounded-xl py-4 px-8 lg:py-8 lg:px-16">
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
                         <a href="tel:8323019096">
