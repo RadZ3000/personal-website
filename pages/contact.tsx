@@ -38,7 +38,7 @@ const Contact = () => {
                                 Email:
                             </button>
                         </a>
-                        <h1 className="text-xs md:text-sm lg:text-base break-all">herald.adowei@gmail.com</h1>
+                        <h1 className="text-xs md:text-sm lg:text-base break-all">herald.adowei@outlook.com</h1>
                     </span>
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
                             <a href="https://www.upwork.com/freelancers/~01b2a3d2bcf6e0b632" target="_blank" rel="noopener noreferrer">
