@@ -107,11 +107,11 @@ export default function Home() {
                                         <a className="nav">About</a>
                                     </Link>
                                 </li>
-                                <li className="text-white">
+                                {/* <li className="text-white">
                                     <Link href="/work">
                                         <a className="nav">Work</a>
                                     </Link>
-                                </li>
+                                </li> */}
                                 <li className="text-white">
                                     <Link href="/contact">
                                         <a className="nav">Contact</a>
