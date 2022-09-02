@@ -14,7 +14,7 @@ const Home: NextPage = () => {
           <code>
             <TypeAnimation
               sequence={[
-                'Software Engineer.',
+                'Web Developer.',
                 // 2000,
                 // 'I build stuff for the web.'
               ]}
