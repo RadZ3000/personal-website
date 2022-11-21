@@ -29,7 +29,7 @@ const Contact = () => {
                                 Call:
                             </button>
                         </a>
-                        <h1 className="text-xs md:text-sm  lg:text-base">+1 (xxx) xxx–9096</h1>
+                        <h1 className="text-xs md:text-sm  lg:text-base">+1 (xxx) xxx-9913</h1>
                     </span>
                     <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
                         <a href="mailto: abc@example.com">
@@ -38,9 +38,9 @@ const Contact = () => {
                                 Email:
                             </button>
                         </a>
-                        <h1 className="text-xs md:text-sm lg:text-base break-all">herald.adowei@outlook.com</h1>
+                        <h1 className="text-xs md:text-sm lg:text-base break-all">herald.adowei@gmail.com</h1>
                     </span>
-                    <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
+                    {/* <span className="flex flex-row gap-x-6 lg:flex-row items-center lg:gap-x-20">
                             <a href="https://www.upwork.com/freelancers/~01b2a3d2bcf6e0b632" target="_blank" rel="noopener noreferrer">
                                 <button className="button">
                                     <FaComment className="text-red-700" />
@@ -48,7 +48,7 @@ const Contact = () => {
                                 </button>
                             </a>
                         <h1 className="text-xs md:text-sm lg:text-base break-all">Upwork.com</h1>
-                    </span>
+                    </span> */}
                 </div>
             </div>
 
