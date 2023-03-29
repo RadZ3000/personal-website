@@ -17,7 +17,7 @@ const Footer = () => {
                 <div className="flex flex-row justify-center gap-x-5">
                     <a href="https://github.com/RadZ3000" target="_blank" rel="noopener noreferrer" className="footer hover:text-black"><FaGithub /></a>
                     <a href="https://www.linkedin.com/heraldadowei" target="_blank" rel="noopener noreferrer" className="footer hover:text-blue-700"><FaLinkedin /></a>
-                    <a href="mailto: guyherry3@gmail.com" target="_blank" rel="noopener noreferrer" className="footer hover:text-gray-700"><FaEnvelope /></a>
+                    <a href="mailto: guyherry3@gmail.com" target="_blank" rel="noopener noreferrer" className="footer hover:text-red-700"><FaEnvelope /></a>
                     <a href="https://www.instagram.com/herald_a/" target="_blank" rel="noopener noreferrer" className="footer hover:text-pink-400"><FaInstagram /></a>
                     {/* <a href="https://twitter.com/The_RadZee" target="_blank" rel="noopener noreferrer" className="footer hover:text-sky-400"><FaTwitter /></a> */}
                 </div>
