@@ -99,12 +99,12 @@ export default function Home() {
                             <ul className="items-center justify-center text-right space-y-8 md:flex md:space-x-0 md:space-y-0 text-sm sm:text-xs md:text-sm lg:text-base">
                                 <li className="text-white">
                                     <Link href="/">
-                                        <a className="nav">Home</a>
+                                        <a className="nav">HOME</a>
                                     </Link>
                                 </li>
                                 <li className="text-white">
                                     <Link href="/about">
-                                        <a className="nav">About</a>
+                                        <a className="nav">ABOUT</a>
                                     </Link>
                                 </li>
                                 {/* <li className="text-white">
@@ -114,7 +114,7 @@ export default function Home() {
                                 </li> */}
                                 <li className="text-white">
                                     <Link href="/contact">
-                                        <a className="nav">Contact</a>
+                                        <a className="nav">CONTACT</a>
                                     </Link>
                                 </li>
                             </ul>
